@@ -11,6 +11,6 @@ package com.mycompany.decisionmakercbl;
 public class DecisionMakerCBL {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello JOINT!");
     }
 }
